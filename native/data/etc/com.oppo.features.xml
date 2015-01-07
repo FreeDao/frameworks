@@ -1,0 +1,21 @@
+<!-- This file is auto-generated.  DO NOT MODIFY. -->
+<!-- COLOR_EDIT.  add oppo.screen.hovering.support ;remove oppo.narrow.frame -->
+<permissions>
+	<feature name="oppo.hw.manufacturer.qualcomm" />
+	<feature name="oppo.sw.solution.device" />
+	<feature name="oppo.breath.light.support" />
+	<feature name="oppo.inexact.alarm" />
+	<feature name="oppo.filtrated.app" />
+	<feature name="oppo.button.light.support" />
+	<feature name="oppo.double.flinger.volume.support" />
+	<feature name="oppo.multi.touch.camera.support" />    
+    <!--<feature name="oppo.screen.hovering.support" />-->
+	<feature name="oppo.enable.voice.activation.support" />
+	<feature name="oppo.infrared.gesture.support" />
+	<feature name="oppo.soundeffect.support" />
+	<feature name="oppo.waves.support" />
+	<feature name="oppo.local.dirac.support" />
+	<feature name="oppo.waves.eq10band" />
+	<feature name="oppo.vacant.unlock.support" />
+	<feature name="oppo.voice.ctrl.support" />
+</permissions>
